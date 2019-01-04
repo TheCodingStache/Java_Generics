@@ -1,4 +1,4 @@
-package com.company;
+package com.dmspallas;
 
 import java.util.ArrayList;
 

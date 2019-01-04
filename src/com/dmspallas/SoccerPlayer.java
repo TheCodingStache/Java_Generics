@@ -1,4 +1,4 @@
-package com.company;
+package com.dmspallas;
 
 public class SoccerPlayer extends Player {
     public SoccerPlayer(String name) {

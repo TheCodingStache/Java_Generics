@@ -1,4 +1,4 @@
-package com.company;
+package com.dmspallas;
 
 public abstract class Player {
     private String name;
